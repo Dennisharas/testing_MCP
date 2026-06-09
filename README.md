@@ -1,1 +1,3 @@
-# testing_MCP
+# MCP
+
+this is a repo for testing MCP
